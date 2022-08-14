@@ -1,6 +1,0 @@
-Animal,Name,Age,Health Concerns,Feeding Schedule
-Lion,Leo,5,Cut on left front paw, 2x Daily
-Tiger,Maj,15,None,3x Daily
-Bear,Baloo,1,None,None on Record
-Giraffe,Spots,12,None,Grazing
-Zebra,Zylo,3,None,2x Daily
