@@ -1,0 +1,5 @@
+Habitat,Temperature,Food Source,Notifications,Cleanliness
+Penguin,Freezing,Fish,Water Running Low,Passed
+Bird,Moderate,Seeds and Berries,None,Passed
+Aquarium,Variety,Fish Kibble,Increase in Algae,Needs Cleaning
+Reptile,Tropical,Raw Meat,Air Humidifier broken, Passed
